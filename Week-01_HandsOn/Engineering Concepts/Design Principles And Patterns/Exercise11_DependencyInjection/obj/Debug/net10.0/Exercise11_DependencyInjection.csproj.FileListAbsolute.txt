@@ -1,0 +1,14 @@
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise11_DependencyInjection\bin\Debug\net10.0\Exercise11_DependencyInjection.exe
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise11_DependencyInjection\bin\Debug\net10.0\Exercise11_DependencyInjection.deps.json
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise11_DependencyInjection\bin\Debug\net10.0\Exercise11_DependencyInjection.runtimeconfig.json
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise11_DependencyInjection\bin\Debug\net10.0\Exercise11_DependencyInjection.dll
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise11_DependencyInjection\bin\Debug\net10.0\Exercise11_DependencyInjection.pdb
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise11_DependencyInjection\obj\Debug\net10.0\Exercise11_DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise11_DependencyInjection\obj\Debug\net10.0\Exercise11_DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise11_DependencyInjection\obj\Debug\net10.0\Exercise11_DependencyInjection.AssemblyInfo.cs
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise11_DependencyInjection\obj\Debug\net10.0\Exercise11_DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise11_DependencyInjection\obj\Debug\net10.0\Exercise11_DependencyInjection.dll
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise11_DependencyInjection\obj\Debug\net10.0\refint\Exercise11_DependencyInjection.dll
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise11_DependencyInjection\obj\Debug\net10.0\Exercise11_DependencyInjection.pdb
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise11_DependencyInjection\obj\Debug\net10.0\Exercise11_DependencyInjection.genruntimeconfig.cache
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise11_DependencyInjection\obj\Debug\net10.0\ref\Exercise11_DependencyInjection.dll

@@ -1,0 +1,14 @@
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise01_Singleton\bin\Debug\net10.0\Exercise01_Singleton.exe
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise01_Singleton\bin\Debug\net10.0\Exercise01_Singleton.deps.json
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise01_Singleton\bin\Debug\net10.0\Exercise01_Singleton.runtimeconfig.json
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise01_Singleton\bin\Debug\net10.0\Exercise01_Singleton.dll
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise01_Singleton\bin\Debug\net10.0\Exercise01_Singleton.pdb
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise01_Singleton\obj\Debug\net10.0\Exercise01_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise01_Singleton\obj\Debug\net10.0\Exercise01_Singleton.AssemblyInfoInputs.cache
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise01_Singleton\obj\Debug\net10.0\Exercise01_Singleton.AssemblyInfo.cs
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise01_Singleton\obj\Debug\net10.0\Exercise01_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise01_Singleton\obj\Debug\net10.0\Exercise01_Singleton.dll
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise01_Singleton\obj\Debug\net10.0\refint\Exercise01_Singleton.dll
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise01_Singleton\obj\Debug\net10.0\Exercise01_Singleton.pdb
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise01_Singleton\obj\Debug\net10.0\Exercise01_Singleton.genruntimeconfig.cache
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise01_Singleton\obj\Debug\net10.0\ref\Exercise01_Singleton.dll

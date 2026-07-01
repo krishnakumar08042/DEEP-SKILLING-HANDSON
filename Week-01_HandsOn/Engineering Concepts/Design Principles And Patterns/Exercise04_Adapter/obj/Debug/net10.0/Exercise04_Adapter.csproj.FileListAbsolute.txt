@@ -1,0 +1,14 @@
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise04_Adapter\bin\Debug\net10.0\Exercise04_Adapter.exe
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise04_Adapter\bin\Debug\net10.0\Exercise04_Adapter.deps.json
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise04_Adapter\bin\Debug\net10.0\Exercise04_Adapter.runtimeconfig.json
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise04_Adapter\bin\Debug\net10.0\Exercise04_Adapter.dll
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise04_Adapter\bin\Debug\net10.0\Exercise04_Adapter.pdb
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise04_Adapter\obj\Debug\net10.0\Exercise04_Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise04_Adapter\obj\Debug\net10.0\Exercise04_Adapter.AssemblyInfoInputs.cache
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise04_Adapter\obj\Debug\net10.0\Exercise04_Adapter.AssemblyInfo.cs
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise04_Adapter\obj\Debug\net10.0\Exercise04_Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise04_Adapter\obj\Debug\net10.0\Exercise04_Adapter.dll
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise04_Adapter\obj\Debug\net10.0\refint\Exercise04_Adapter.dll
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise04_Adapter\obj\Debug\net10.0\Exercise04_Adapter.pdb
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise04_Adapter\obj\Debug\net10.0\Exercise04_Adapter.genruntimeconfig.cache
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise04_Adapter\obj\Debug\net10.0\ref\Exercise04_Adapter.dll

@@ -1,0 +1,14 @@
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise05_Decorator\bin\Debug\net10.0\Exercise05_Decorator.exe
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise05_Decorator\bin\Debug\net10.0\Exercise05_Decorator.deps.json
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise05_Decorator\bin\Debug\net10.0\Exercise05_Decorator.runtimeconfig.json
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise05_Decorator\bin\Debug\net10.0\Exercise05_Decorator.dll
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise05_Decorator\bin\Debug\net10.0\Exercise05_Decorator.pdb
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise05_Decorator\obj\Debug\net10.0\Exercise05_Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise05_Decorator\obj\Debug\net10.0\Exercise05_Decorator.AssemblyInfoInputs.cache
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise05_Decorator\obj\Debug\net10.0\Exercise05_Decorator.AssemblyInfo.cs
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise05_Decorator\obj\Debug\net10.0\Exercise05_Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise05_Decorator\obj\Debug\net10.0\Exercise05_Decorator.dll
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise05_Decorator\obj\Debug\net10.0\refint\Exercise05_Decorator.dll
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise05_Decorator\obj\Debug\net10.0\Exercise05_Decorator.pdb
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise05_Decorator\obj\Debug\net10.0\Exercise05_Decorator.genruntimeconfig.cache
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise05_Decorator\obj\Debug\net10.0\ref\Exercise05_Decorator.dll

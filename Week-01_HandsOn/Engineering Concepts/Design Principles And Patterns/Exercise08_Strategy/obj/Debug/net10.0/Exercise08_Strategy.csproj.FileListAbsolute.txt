@@ -1,0 +1,14 @@
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise08_Strategy\bin\Debug\net10.0\Exercise08_Strategy.exe
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise08_Strategy\bin\Debug\net10.0\Exercise08_Strategy.deps.json
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise08_Strategy\bin\Debug\net10.0\Exercise08_Strategy.runtimeconfig.json
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise08_Strategy\bin\Debug\net10.0\Exercise08_Strategy.dll
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise08_Strategy\bin\Debug\net10.0\Exercise08_Strategy.pdb
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise08_Strategy\obj\Debug\net10.0\Exercise08_Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise08_Strategy\obj\Debug\net10.0\Exercise08_Strategy.AssemblyInfoInputs.cache
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise08_Strategy\obj\Debug\net10.0\Exercise08_Strategy.AssemblyInfo.cs
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise08_Strategy\obj\Debug\net10.0\Exercise08_Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise08_Strategy\obj\Debug\net10.0\Exercise08_Strategy.dll
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise08_Strategy\obj\Debug\net10.0\refint\Exercise08_Strategy.dll
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise08_Strategy\obj\Debug\net10.0\Exercise08_Strategy.pdb
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise08_Strategy\obj\Debug\net10.0\Exercise08_Strategy.genruntimeconfig.cache
+C:\Users\Krishna Mishra\OneDrive\Desktop\Week-01_HandsOn\Engineering Concepts\Design Principles And Patterns\Exercise08_Strategy\obj\Debug\net10.0\ref\Exercise08_Strategy.dll
