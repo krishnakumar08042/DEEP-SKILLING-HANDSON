@@ -1,0 +1,17 @@
+1. Analyze the time complexity of each operation (add, update, delete) in  chosen data structure.
+
+Operation	Time Complexity
+Add Product	O(1)
+Update Product	O(1)
+Delete Product	O(1)
+Search Product	O(1)
+Display All Products	O(n)
+
+
+2. Discuss how you can optimize these operations.
+
+ 1.Use a Dictionary (HashMap) to store products using Product ID as the key.
+ 2.Dictionary provides fast insertion, search, update, and deletion operations.
+ 3.Using a unique Product ID avoids duplicate records and improves retrieval speed.
+ 4.This approach is more efficient than searching through an array or list for every operation.
+

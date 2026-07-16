@@ -1,0 +1,13 @@
+                                       Aalysis
+
+
+1. Comparison of the performance (time complexity) of Bubble Sort and Quick Sort
+Algorithm	Best Case	Average Case	Worst Case
+Bubble Sort	O(n)	          O(n²)	          O(n²)
+Quick Sort	O(n log n)	O(n log n)	O(n²)
+
+
+
+2. Why Quick Sort is generally preferred over Bubble Sort
+
+Quick Sort is generally preferred because it is much faster for large datasets. It divides the list into smaller parts and sorts them efficiently, resulting in an average time complexity of O(n log n). Bubble Sort repeatedly compares adjacent elements, making it slower with an average and worst-case time complexity of O(n²). Therefore, Quick Sort is a better choice for sorting customer orders in an e-commerce platform.

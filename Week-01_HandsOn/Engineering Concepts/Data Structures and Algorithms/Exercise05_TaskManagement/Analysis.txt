@@ -1,0 +1,13 @@
+                                  Analysis
+1. Time complexity of each operation
+Operation	Time Complexity
+Add Task	O(n)
+Search Task	O(n)
+Traverse Tasks	O(n)
+Delete Task	O(n)
+
+
+
+2. Advantages of linked lists over arrays for dynamic data
+
+Linked lists are suitable for dynamic data because they can grow or shrink in size during program execution. Memory is allocated as needed, so there is no fixed size limitation. Insertion and deletion operations are easier since elements do not need to be shifted. Linked lists are a better choice when the number of tasks changes frequently.

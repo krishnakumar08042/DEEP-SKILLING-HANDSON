@@ -1,0 +1,15 @@
+                                   Analysis
+
+
+1. Time complexity of each operation
+Operation	      Time Complexity
+Add Employee	          O(1)
+Search Employee	          O(n)
+Traverse Employees	  O(n)
+Delete Employee	          O(n)
+
+
+
+2. Limitations of arrays and when to use them
+
+Arrays have a fixed size, so the number of employee records cannot be increased once the array is full. Deleting an employee requires shifting the remaining elements, which increases execution time. Arrays are suitable when the number of records is known in advance and fast access using an index is required. They are simple to implement and efficient for storing a fixed amount of data.

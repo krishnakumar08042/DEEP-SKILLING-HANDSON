@@ -1,0 +1,14 @@
+                                  Analysis
+
+
+1. Comparison of the time complexity of Linear Search and Binary Search
+
+Algorithm	Best Case	Average Case	Worst Case
+Linear Search	O(1)	          O(n)	         O(n)
+Binary Search	O(1)	          O(log n)	 O(log n)
+
+
+
+2. Suitable algorithm for the e-commerce platform
+
+Binary Search is more suitable because it provides faster search performance on a sorted array. It reduces the search space by half in each step, making it efficient for large product collections. Linear Search is useful for small or unsorted datasets, but it becomes slower as the number of products increases.

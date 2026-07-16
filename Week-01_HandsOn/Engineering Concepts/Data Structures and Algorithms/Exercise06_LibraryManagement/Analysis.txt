@@ -1,0 +1,11 @@
+                                  Analysis
+
+1. Comparison of the time complexity of Linear Search and Binary Search
+Algorithm	Best Case	Average Case	Worst Case
+Linear Search	O(1)	            O(n)	  O(n)
+Binary Search	O(1)	           O(log n)	 O(log n)
+
+
+2. When to use each algorithm based on the data set size and order
+
+Linear Search is suitable for small or unsorted datasets because it checks each element one by one. Binary Search is suitable for large datasets when the data is sorted. It reduces the search space by half in each step, making it much faster than Linear Search for sorted collections of books.

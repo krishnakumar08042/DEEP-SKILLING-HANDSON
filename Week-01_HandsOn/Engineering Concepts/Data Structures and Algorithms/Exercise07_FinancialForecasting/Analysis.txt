@@ -1,0 +1,12 @@
+1. Time complexity of the recursive algorithm
+
+The recursive algorithm calculates the future value by making one recursive call for each year. Therefore, the time complexity is:
+
+Case	               Time Complexity
+Recursive Algorithm	  O(n)
+
+where n is the number of years.
+
+2. Optimization of the recursive solution
+
+The recursive solution can be optimized by reducing the number of recursive calls. An iterative approach can be used to calculate the future value using a loop, which avoids the overhead of multiple function calls and reduces memory usage. For more complex recursive problems with repeated calculations, memoization or dynamic programming can also be used to improve performance by storing previously computed results.
